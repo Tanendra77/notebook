@@ -1,4 +1,4 @@
-# 📒 NoteBook App (MERN Stack)
+# 📒 NoteBook (MERN Stack)
 
 A full-stack **Note Taking Application** built with the **MERN stack** (MongoDB, Express, React, Node.js). Includes user authentication and full CRUD functionality for notes.
 
@@ -37,8 +37,8 @@ A full-stack **Note Taking Application** built with the **MERN stack** (MongoDB,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abhi378-2005/Notebook-using-Mern.git
-cd Notebook-using-Mern
+git clone https://github.com/Tanendra77/notebook.git
+cd notebook
 ```
 
 2. Backend Setup
@@ -135,4 +135,4 @@ This project is open source and free to use under the MIT License.
 
 ## 🙌 Author
 
-Made with 💻 by Abhi378-2005 {Abhishek Paithankar} 😎
+Made with 💻 by Tanendra77
