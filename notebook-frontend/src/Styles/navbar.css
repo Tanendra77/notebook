@@ -1,0 +1,43 @@
+.navbar {
+  padding: 15px 30px;
+  background-color: #1e1e2f;
+  border-bottom: 2px solid #444;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #ffffffd9;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #00d8ff;
+}
+
+.navbar strong {
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+.navbar button {
+  padding: 8px 16px;
+  background-color: #ff4b5c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.navbar button:hover {
+  background-color: #e43d4e;
+}
